@@ -1,0 +1,1 @@
+sonar_data[60].value_counts()
